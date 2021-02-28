@@ -1,0 +1,9 @@
+*
+!.gitignore
+!CMakeLists.txt
+*.png 
+!MPITensor
+!MPIHaloExchange
+!MPIHaloExchange2
+!ExtendedNN
+
